@@ -21,7 +21,7 @@
 
 ## 🎲 Cómo usarlo
 1. Ingresa en este enlace:
-https://yonireyesm85.github.io/mi-portafolio/
+https://portafolio-nine-plum-61.vercel.app/
 2. Ve mi informacion 
 3. Desplazate entre secciones con la navbar
 4. Listo! ahora Ya! me conoces
